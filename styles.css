@@ -2,3 +2,10 @@
 body{
     width:100%;
 }
+
+.jumbotron {
+    background-image: url("./Images/preston_table.jpg");
+    background-size: cover;
+    background-position-y: 80%;
+    color:white;
+  }
